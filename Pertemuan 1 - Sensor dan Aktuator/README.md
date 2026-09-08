@@ -135,7 +135,17 @@ if (suhu > suhuBatasAtas) {
 *   `Serial.println("Aktuator: OFF (Suhu < 28°C)");` : Menampilkan informasi ke Serial Monitor bahwa aktuator telah OFF.
 
 ---
-## 6. Foto proses praktikum/perangkaian :
+## 6. Skematik/diagram rangkaian jika diperlukan
+a. Percobaan 1 :
+
+<img width="362" height="562" alt="image" src="https://github.com/user-attachments/assets/130b640d-1209-4b5a-95f4-cd88746bfc54" />
+
+b. Percobaan 2 :
+
+<img width="536" height="572" alt="image" src="https://github.com/user-attachments/assets/8a1a7050-6155-4bb4-956d-0291b5bfaaa7" />
+
+---
+## 7. Foto proses praktikum/perangkaian :
 a. Percobaan 1 :
 
 <img width="491" height="370" alt="image" src="https://github.com/user-attachments/assets/623f2b26-95de-471e-a08a-edd98340046c" />
