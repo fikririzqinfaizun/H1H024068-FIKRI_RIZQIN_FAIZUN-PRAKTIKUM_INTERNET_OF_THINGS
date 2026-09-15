@@ -1,5 +1,5 @@
 #include <ESP8266WiFi.h>
-const char* ap_ssid = "ESPRASTA";
+const char* ap_ssid = "ESP32_RASTA";
 const char* ap_password = "12345678"; // minimal 8 karakter
 void setup() {
  Serial.begin(115200);
