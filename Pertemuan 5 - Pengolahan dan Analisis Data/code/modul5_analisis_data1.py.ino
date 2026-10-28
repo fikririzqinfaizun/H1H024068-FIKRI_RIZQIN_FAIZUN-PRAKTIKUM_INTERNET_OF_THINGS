@@ -4,13 +4,13 @@
 #include <math.h>
 
 // Konfigurasi WiFi & MQTT Broker
-const char* ssid = "Nxxy";
-const char* password = "Nuxxccyy";
+const char* ssid = "Fikri213";
+const char* password = "12345678";
 const char* mqtt_server = "broker.hivemq.com";
 const int mqtt_port = 1883;
 
 // Definisikan Topik MQTT di sini
-const char* topicData = "unsoed/tk245004/kelompok5/data"; 
+const char* topicData = "unsoed/tk245004/kelompok6/data"; 
 
 WiFiClient espClient;
 PubSubClient client(espClient);
