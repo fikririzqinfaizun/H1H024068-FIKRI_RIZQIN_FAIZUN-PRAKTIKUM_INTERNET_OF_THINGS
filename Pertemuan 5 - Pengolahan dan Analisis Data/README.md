@@ -303,3 +303,10 @@ plt.show()
 *   `df["zscore_ma"]` dan `df["anomali_ma"]`: Z-score dan penanda anomali (|z| > 2) pada data yang sudah dihaluskan.
 *   Dua `print` jumlah anomali: Menampilkan jumlah anomali data mentah dan data moving average secara berdampingan untuk dibandingkan.
 *   `plt.subplots(2, 1, ...)`: Grafik dibuat dua panel (mentah dan moving average) dengan sumbu x yang sama, masing-masing dengan penanda anomali merah.
+
+### Foto saat praktikum :
+
+<img width="240" height="492" alt="image" src="https://github.com/user-attachments/assets/32a46758-91b5-4c8c-a650-f2eacea3f35d" />
+
+
+<img width="1000" height="400" alt="grafik_suhu (1)" src="https://github.com/user-attachments/assets/10cb91ec-d403-4e48-aee9-550aee73a665" />
