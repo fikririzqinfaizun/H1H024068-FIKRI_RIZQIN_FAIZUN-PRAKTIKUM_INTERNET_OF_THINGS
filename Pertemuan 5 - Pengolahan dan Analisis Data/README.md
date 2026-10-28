@@ -306,7 +306,8 @@ plt.show()
 
 ### Foto saat praktikum :
 
+gambar rangkaian pada percobaan 5a dan 5b
 <img width="240" height="492" alt="image" src="https://github.com/user-attachments/assets/32a46758-91b5-4c8c-a650-f2eacea3f35d" />
 
-
+gambar hasil data suhu dan deteksi anomali
 <img width="1000" height="400" alt="grafik_suhu (1)" src="https://github.com/user-attachments/assets/10cb91ec-d403-4e48-aee9-550aee73a665" />
